@@ -1,0 +1,15 @@
+Date: 11/8/2023
+Time: 23:55
+Phone Number: +5515997523322
+Message: Olá Vinícius, Essa é uma mensagem automática de teste
+--------------------
+Date: 11/8/2023
+Time: 23:56
+Phone Number: +5515996085986
+Message: Olá Luciana, Essa é uma mensagem automática de teste
+--------------------
+Date: 11/8/2023
+Time: 23:57
+Phone Number: +5515997840519
+Message: Olá Reginaldo, Essa é uma mensagem automática de teste
+--------------------
